@@ -9,7 +9,7 @@ Build this repo's docker environment on local to try the [official tutorial](htt
 
 
 ## How to build
-* Build docker containers and start a CakePHP project
+Build docker containers and start a CakePHP project<br>
 
 Clone this repo<br>
 `$ git clone https://github.com/davidheart24/CakePHP-3.8-With-Docker.git`
